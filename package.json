@@ -7,7 +7,7 @@
         "test": "karma start"
     },
     "keywords": [],
-    "author": "Rahil",
+    "author": "Karna",
     "license": "ISC",
     "dependencies": {
         "angular": "1.5.6",
